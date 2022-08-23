@@ -2,6 +2,7 @@ package lists
 
 import (
 	"fmt"
+	"strings"
 )
 
 type Node[T any] struct {
